@@ -125,7 +125,7 @@ $ npm install --save-dev http-server
   </head>
   <body>
     <button class="btn">决定就是你了！</button>
-    <script src="./main.js" charset="utf-8"></script>
+    <script src="./script.js" charset="utf-8"></script>
   </body>
 </html>
 ```
